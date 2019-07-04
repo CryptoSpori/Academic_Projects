@@ -1,4 +1,4 @@
-package edu.nova.computer.science;
+package edu.nova.archive;
 
 public class Main {
 
