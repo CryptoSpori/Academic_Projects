@@ -1,2 +1,2 @@
 # Academic Projects
- Nova academic assignments and projects
+ Nova computer science academic assignments and projects
