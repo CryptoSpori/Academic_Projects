@@ -1,0 +1,31 @@
+State,Airports (large hubs),IATA,Major city served
+AZ,Phoenix Sky Harbor International Airport,PHX,Phoenix
+CA,Los Angeles International Airport,LAX,Los Angeles
+CA,San Francisco International Airport,SFO,San Francisco
+CA,San Diego International Airport,SAN,San Diego
+CO,Denver International Airport,DEN,Denver
+FL,Orlando International Airport,MCO,Orlando
+FL,Miami International Airport,MIA,Miami
+FL,Fort Lauderdale–Hollywood International Airport,FLL,Fort Lauderdale
+FL,Tampa International Airport,TPA,Tampa
+GA,Hartsfield–Jackson Atlanta International Airport,ATL,Atlanta
+HI,Daniel K. Inouye International Airport,HNL,Honolulu
+IL,O'Hare International Airport,ORD,Chicago
+IL,Midway International Airport,MDW,Chicago
+MA,Logan International Airport,BOS,Boston
+MD,Baltimore–Washington International Airport,BWI,"Baltimore/Washington, D.C."
+MI,Detroit Metropolitan Airport,DTW,Detroit
+MN,Minneapolis–Saint Paul International Airport,MSP,Minneapolis/St. Paul
+NC,Charlotte Douglas International Airport,CLT,Charlotte
+NJ,Newark Liberty International Airport,EWR,New York/Newark/New Jersey
+NV,McCarran International Airport,LAS,Las Vegas
+NY,John F. Kennedy International Airport,JFK,New York
+NY,LaGuardia Airport,LGA,New York
+OR,Portland International Airport,PDX,Portland
+PA,Philadelphia International Airport,PHL,Philadelphia
+TX,Dallas/Fort Worth International Airport,DFW,Dallas/Fort Worth
+TX,George Bush Intercontinental Airport,IAH,Houston
+UT,Salt Lake City International Airport,SLC,Salt Lake City
+VA,Ronald Reagan Washington National Airport,DCA,"Washington, D.C."
+VA,Washington Dulles International Airport,IAD,"Washington, D.C."
+WA,Seattle–Tacoma International Airport,SEA,Seattle/Tacoma

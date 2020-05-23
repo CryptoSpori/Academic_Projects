@@ -1,0 +1,30 @@
+﻿AZ,PHX,07:50,11:11,250,Phoenix Sky Harbor International Airport,Phoenix
+CA,LAX,17:30,20:51,400,Los Angeles International Airport,Los Angeles
+CA,SFO,07:50,11:11,400,San Francisco International Airport,San Francisco
+CA,SAN,17:30,20:51,500,San Diego International Airport,San Diego
+CO,DEN,07:30,09:55,300,Denver International Airport,Denver
+FL,MCO,17:50,20:15,300,Orlando International Airport,Orlando
+FL,MIA,07:30,09:55,250,Miami International Airport,Miami
+FL,FLL,17:50,20:15,250,Fort Lauderdale–Hollywood International Airport,Fort Lauderdale
+FL,TPA,07:50,17:07,250,Tampa International Airport,Tampa
+GA,ATL,18:00,03:17,200,Hartsfield–Jackson Atlanta International Airport,Atlanta
+HI,HNL,07:50,11:07,600,Daniel K. Inouye International Airport,Honolulu
+IL,ORD,18:00,21:17,200,O'Hare International Airport,Chicago
+IL,MDW,08:10,10:14,200,Midway International Airport,Chicago
+MA,BOS,17:50,19:54,200,Logan International Airport,Boston
+MD,BWI,08:10,10:14,150,Baltimore–Washington International Airport,Baltimore/Washington DC
+MI,DTW,17:50,19:54,150,Detroit Metropolitan Airport,Detroit
+MN,MSP,07:40,09:01,250,Minneapolis–Saint Paul International Airport,Minneapolis/St. Paul
+NC,CLT,17:30,18:51,200,Charlotte Douglas International Airport,Charlotte
+NJ,EWR,07:40,11:01,100,Newark Liberty International Airport,New York/Newark/New Jersey
+NV,LAS,17:30,20:51,350,McCarran International Airport,Las Vegas
+NY,JFK,08:00,10:10,400,John F. Kennedy International Airport,New York
+NY,LGA,17:30,19:40,400,LaGuardia Airport,New York
+OR,PDX,08:00,10:10,300,Portland International Airport,Portland
+PA,PHL,17:30,19:40,250,Philadelphia International Airport,Philadelphia
+TX,DFW,07:30,09:23,300,Dallas/Fort Worth International Airport,Dallas/Fort Worth
+TX,IAH,11:40,13:33,300,George Bush Intercontinental Airport,Houston
+UT,SLC,15:30,17:23,350,Salt Lake City International Airport,Salt Lake City
+VA,DCA,19:40,21:33,200,Ronald Reagan Washington National Airport,Washington DC
+VA,IAD,07:30,09:23,200,Washington Dulles International Airport,Washington DC
+WA,SEA,11:40,13:33,500,Seattle–Tacoma International Airport,Seattle/Tacoma
